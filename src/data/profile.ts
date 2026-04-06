@@ -24,12 +24,14 @@ export const profile = {
     email: "lucy198609126@gmail.com",
     linkedin: "https://www.facebook.com/Ella.Windsor.13408",
     portrait: "/images/home-photo.jpg",
-    statement: "In an uncertain world, clarity, discipline, and long-term judgment matter more than the pursuit of stability.",
-    summary: "I grew up between Chinese and British cultural influences and received an international education shaped by economics, finance, and business practice. Over time, experience in London, Europe, and the United States taught me that wealth is not just about numbers. It is about choice, resilience, and the ability to protect the future.",
+    statement: "I have always believed that in an uncertain environment clarity of judgment and a long term perspective matter far more than short term outcomes.",
+    summary: "I grew up in a multicultural environment received an international education and lived and studied in multiple countries which gradually shaped a stable rational and long term oriented way of thinking.",
     success: [
-      "What I do comes down to three things: building understanding, managing risk, and creating value.",
-      "Real security does not come from how much you own, but from your ability to rebuild order when the environment changes.",
-      "Today, I focus on asset allocation, investment practice, and long-term value creation rooted in judgment rather than noise."
+      "In my professional path I deepened my understanding of business and value through cross disciplinary practice from entrepreneurship in the medical aesthetics industry to optimizing brand and offline business operations developing an approach centered on structure efficiency and long term sustainability.",
+      "Rather than focusing on identity I place greater importance on my role as a connector and a driver integrating resources building structures and turning ideas into systems that can operate and sustain over time.",
+      "In life I maintain discipline and rhythm placing importance on long term development in physical health cognition and inner stability I believe real value lies in the ability to consistently make clear and sound decisions."
+      "Looking ahead I will focus on directions that allow for accumulation and compounding continuing to develop businesses related to lifestyle health and aesthetics while building a long term platform that connects resources accumulates experience and creates lasting value and contributing to education and philanthropy in a steady and sustainable way",
+      "The difference between individuals is not defined by short term choices but by whether they possess stable judgment and the ability to continuously evolve"
     ]
   },
   highlights: [
