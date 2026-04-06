@@ -29,7 +29,7 @@ export const profile = {
     success: [
       "In my professional path I deepened my understanding of business and value through cross disciplinary practice from entrepreneurship in the medical aesthetics industry to optimizing brand and offline business operations developing an approach centered on structure efficiency and long term sustainability.",
       "Rather than focusing on identity I place greater importance on my role as a connector and a driver integrating resources building structures and turning ideas into systems that can operate and sustain over time.",
-      "In life I maintain discipline and rhythm placing importance on long term development in physical health cognition and inner stability I believe real value lies in the ability to consistently make clear and sound decisions."
+      "In life I maintain discipline and rhythm placing importance on long term development in physical health cognition and inner stability I believe real value lies in the ability to consistently make clear and sound decisions.",
       "Looking ahead I will focus on directions that allow for accumulation and compounding continuing to develop businesses related to lifestyle health and aesthetics while building a long term platform that connects resources accumulates experience and creates lasting value and contributing to education and philanthropy in a steady and sustainable way",
       "The difference between individuals is not defined by short term choices but by whether they possess stable judgment and the ability to continuously evolve"
     ]
